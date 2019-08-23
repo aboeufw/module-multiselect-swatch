@@ -3,6 +3,7 @@
     <module name="Pmclain_MultiSelectSwatch" setup_version="0.1.0">
         <sequence>
             <module name="Magento_Swatches" />
+            <module name="Smile_ElasticsuiteSwatches"/>
         </sequence>
     </module>
 </config>
